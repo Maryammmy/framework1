@@ -1,0 +1,11 @@
+#about{
+    background-color: #1ABC9C; 
+}
+.containa{
+    height: 750px;
+}
+.borda{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}

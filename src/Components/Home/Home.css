@@ -1,0 +1,11 @@
+#home{
+    background-color: #1ABC9C; 
+}
+.containh{
+    height: 700px;
+}
+.bordh{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+}

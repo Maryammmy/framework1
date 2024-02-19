@@ -1,0 +1,14 @@
+nav{
+    background-color: #2C3E50;
+}
+.navbar-shrink {
+    height: 70px; 
+    transition: height 0.3s; 
+  }
+  .navbar-shrink .navbar-brand {
+    font-size: 1.5rem; 
+  }
+  .navbar-nav .nav-link.active{
+    background-color:  #1ABC9C;
+  }
+  
