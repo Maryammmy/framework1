@@ -8,7 +8,7 @@ export default function Home() {
 <section id='home' className='pt-5'>
 <div className="container p-5  d-flex justify-content-center align-items-center containh text-white">
     <div>
-      <div className=' ms-5'><img src={img1} alt=""  width={250} /></div>
+      {/* <div className=' ms-5'><img src={img1} alt=""  width={250} /></div> */}
       <h2 className=' pt-4  fs-1 fw-bolder text-center'>START FRAMEWORK</h2>
       <div className=' pt-3 pe-2 d-flex justify-content-center align-items-center '>
         <div className='bordh'></div>
